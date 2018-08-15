@@ -41,6 +41,7 @@
 !.rvmrc
 
 # Vim plugins, ftplugins, syntax etc etc
+!vim
 !.vim
 !.vim/*
 !.vim/*/*
