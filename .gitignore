@@ -11,6 +11,7 @@
 !.profile
 
 # Zsh
+!zsh
 !.zshrc
 !.zsh
 !.zsh/*
@@ -72,6 +73,7 @@ bin/.*.swp
 etc/clusto*.conf
 
 # Screen, tmux
+!tmux
 !.screenrc
 !.tmux.conf
 !.tmux
